@@ -1,0 +1,259 @@
+body{
+	font-family: 'Text Me One', sans-serif;
+	background: #343A40;
+}
+
+.container-fluid{
+	background-color: #c4adc9;
+	padding-top: 1%;
+}
+
+.logo{
+	float: left;
+}
+.navbar{
+	width: 100%;
+	margin-top: 6%;
+	margin-right: 10px;
+    margin-bottom: 6%;
+
+}
+h5.h-carousel, p.h-carousel{
+	color: #c4adc9;
+}
+
+
+.card{
+	padding-bottom: 2%;
+}
+
+.acordion{
+	margin-top: 30px;
+	padding bottom: 50px;
+}
+
+.aa{
+	background: #c4adc9;
+}
+
+.btn_login input{
+	background: transparent;
+	border: 2px solid #c4adc9;
+	padding-right: 30px;
+	color: #c4adc9;
+}
+.btn_login input:hover{
+	background: #c4adc9;
+	padding-right: 30px;
+	color: white;
+}
+
+.mapa{
+	margin-left: 100px;
+	float: right;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
+.row form-groupe{
+background: #c4adc9;
+}
+
+.formcard{
+	padding: 13px;
+	background: #343A40;
+}
+
+
+}
+.formulario label{
+	color: white;
+	
+}
+
+.nav nav.navbar{
+	border-radius: 6px;
+
+	
+}
+
+.nav nav.navbar ul li{
+	margin: 10px;
+
+
+}
+
+
+
+.botao button{
+background: transparent;
+border: 2px solid #c4adc9;
+border-radius: 6px;
+color: #c4adc9;
+}
+
+.botao button:hover{
+background: transparent;
+border: 2px solid purple;
+border-radius: 6px;
+color: purple;
+}
+
+.rodape{
+	background: black;
+	padding: 10px;
+}
+
+.rodape container {
+	margin-top: 2%;
+}
+
+
+.card-body img{
+	background: #c4adc9;
+}
+
+
+.card-body{
+	background: #e5ccea;
+} 
+
+
+
+
+.card-header{
+	background: #efe1f2;
+}
+
+.pesquisar input{
+background: #343A40;
+border: 2px solid #c4adc9;
+border-radius: 6px;
+color: #c4adc9;
+}
+
+.pesquisar input:hover{
+background: transparent;
+border: 2px solid purple;
+border-radius: 6px;
+color: purple;
+}
+
+.pesquisar input.form-control{
+border: 2px solid #c4adc9;
+}
+.aaa{
+background: black;
+	}
+
+.row form-group input{
+	background: #343A40;
+}
+
+img{
+	max-height: 100%;
+	height: auto;
+}
+.social ul{
+	list-style: none;
+	margin-top: 7%;
+
+
+}
+
+.corpo{
+	font-family: 'Text Me One', sans-serif;
+	background: #343A40;
+	padding-bottom: 2%;
+}
+
+}
+.social li{
+	float: left;
+	margin-left: 15px;
+}
+.navbar{
+	margin-top: 55px;
+}
+.botao-modal-1{
+	position: absolute;
+	top: 70%;
+	left: 46%;
+}
+.modal-header{
+	background:#c4adc9;
+}
+.bt button{
+	background: transparent;
+	border: 2px solid #c4adc9;
+	border-radius: 0 15px;
+	color: #c4adc9;
+
+}
+.bt button:hover{
+	background: #c4adc9;
+	border-radius: 0 15px;
+	color: white;
+
+}
+.botao-modal-ca{
+	position: absolute !important;
+	top: 29rem;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	background-color: transparent;
+	border: 2px solid #c4adc9;
+	border-radius: 6px;
+}
+
+.botao-modal-ca:hover{
+	position: absolute !important;
+	top: 29rem;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	background-color: #c4adc9;
+	border: 2px solid #c4adc9;
+	border-radius: 6px;
+	color: white;
+}
+
+.
+.aa{
+	padding-top: 2%;
+	padding-right: 8%;
+}
+
+.form-group label{
+	color: #c4adc9;
+}
+
+
+.form-group input{
+	background: transparent;
+	border: 2px solid #c4adc9;
+}
+
+.form-group textarea{
+	background: transparent;
+	border: 2px solid #c4adc9;
+
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 1366px){
+	.botao-modal-ca{
+		/*position: relative;
+		top: ;
+		left: 30%;*/
+	}
+}
+@media screen and (min-width: 320px) and (max-width: 1024px){
+	.botao-modal-ca{
+		/*position: absolute;
+		top: 50%;
+		left: 43%;*/
+	}
+}
